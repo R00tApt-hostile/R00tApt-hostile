@@ -1,7 +1,7 @@
 # ROOtApt-hostile
 
 [![GitHub followers](https://img.shields.io/github/followers/ROOtApt-hostile?style=social)](https://github.com/ROOtApt-hostile?tab=followers)
-[![GitHub stars](https://img.shields.io/github/stars/ROOtApt-hostile?style=social)](https://github.com/ROOtApt-hostile?tab=stars)
+[![GitHub stars](https://img.shields.io/github/stars/ROOtApt-hostile?style=social)](https://github.com/R00tApt-hostile?tab=stars)
 
 **"Freedom is not given, it is taken."**
 
